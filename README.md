@@ -20,6 +20,14 @@ Meu nome é  Renildo Meurer
 - Profissões Regulamentadas: Docente (desde 1999); Jornalista (desde 2007); DJ (desde 1997); Ator (desde 1993); Produtor Cultural (desde 1997); Diretor de Teatro (desde 1999); 
 - Webdesigner, Designer Gráfico, Fotógrafo, Câmera-man; Editor de fotos e de Vídeos; Produtor de Eventos.
 
+### CONHECIMENTOS DE INFORMÁTICA:
+- WEBDESIGN (Html, Php, Wordpress, Joomla, Drupal, Dreamweaver, etc)
+- PACOTE WINDOWS (Excel, Word, Powerpoint, Project, Access, etc)
+- DESIGN GRÁFICO (Photoshop, Ilustrator, Indesign, Canva, Corel, Publisher, etc).
+- SISTEMAS PARA DOCENTES (Moodle, Matheus Acadêmico, Prezzi, etc).
+- VÍDEOS (Videomaker, Camtasia, Premiere, etc).
+- PROJETOS (Projetct, Trello, Gantt, Workplace, etc)
+
 ### CONTRATOS EMPRESARIAIS:
 - 2021-Atual: SEED PR: Docente de Ensino Médio nas disciplinas de Língua Portuguesa, Mídias Digitais e Pensamento Computacional;
 - Desde 1998 - Produtor de Eventos (Festas, Casamentos, Aniversários, DJ), Empresariais e Culturais (Teatro);
