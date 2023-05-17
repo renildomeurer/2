@@ -29,7 +29,7 @@ Meu nome é  Renildo Meurer
 - PROJETOS (Projetct, Trello, Gantt, Workplace, etc)
 
 ### CONTRATOS PROFISSIONAIS:
-- 2021-Atual: SEED PR: Docente de Ensino Médio nas disciplinas de Língua Portuguesa, Mídias Digitais e Pensamento Computacional;
+- Desde 2021: SEED PR: Docente de Ensino Médio nas disciplinas de Língua Portuguesa, Mídias Digitais e Pensamento Computacional;
 - Desde 1998 - Produtor de Eventos (Festas, Casamentos, Aniversários, DJ), Empresariais e Culturais (Teatro);
 - 2019-2020 - Faculdade CAMÕES: Docente de Graduação de Língua Portuguesa, Administração, Metodologias, nos cursos de Administração, Contabilidade, Marketing e Pedagogia;
 - 2017-2018 - Faculdade FACEL: Docente de Graduação de Língua Portuguesa, Administração, PNL, nos cursos de Administração, Contabilidade, Marketing e Pedagogia;
