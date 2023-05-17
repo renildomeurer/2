@@ -28,7 +28,7 @@ Meu nome é  Renildo Meurer
 - VÍDEOS (Videomaker, Camtasia, Premiere, etc).
 - PROJETOS (Projetct, Trello, Gantt, Workplace, etc)
 
-### CONTRATOS EMPRESARIAIS:
+### CONTRATOS PROFISSIONAIS:
 - 2021-Atual: SEED PR: Docente de Ensino Médio nas disciplinas de Língua Portuguesa, Mídias Digitais e Pensamento Computacional;
 - Desde 1998 - Produtor de Eventos (Festas, Casamentos, Aniversários, DJ), Empresariais e Culturais (Teatro);
 - 2019-2020 - Faculdade CAMÕES: Docente de Graduação de Língua Portuguesa, Administração, Metodologias, nos cursos de Administração, Contabilidade, Marketing e Pedagogia;
@@ -41,3 +41,7 @@ Meu nome é  Renildo Meurer
 - 1996-2019 - FUNPAR - Fundação da UFPR: Téc.Assuntos Educacionais (Coordenador de Cursos/Chefe de Treinamento, Jornalista, Designer gráfico, Webdesigner, Fotógrafo, Produtor de Eventos, etc..);
 - 1993-1995 - SPC/Hospital Cajuru: Assistente Administrativo/Faturista;
 - 1986-1991 - DIPAVE VEÍCULOS S/A: Assistente Patrimônial, Auxiliar Administrativo/Compras.
+
+### MEI:
+- COMERCIAL MEURER: http://www.vilamix.com.br
+- Produtor de Eventos Sociais e  Culturais, Palestras, Correções de textos, etc. 
