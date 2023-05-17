@@ -5,22 +5,22 @@ Meu nome é  Renildo Meurer
 
 ### Você pode entrar em contato comigo: renildo.meurer@escola.pr.gov.br e pelas minhas redes sociais: @renildomeurer.
 
-###MEUS CURSOS SUPERIORES:
+### MEUS CURSOS SUPERIORES:
 - UFPR - MESTRADO: ESTUDOS LITÉRÁRIOS (2002)
 - PUCPR - ESPECIALIZAÇÃO: LÍNGUA PORTUGUESA E LIT.BRASILEIRA (1999)
 - PUCPR – GRADUAÇÃO: LETRAS (1998)
 - UFPR: GRADUAÇÃO: ADMINISTRAÇÃO PÚBLICA (2014)
 - OPET – GRADUAÇÃO: PEDAGOGIA (2022)
 
-MEUS CURSOS TÉCNICOS:
+### MEUS CURSOS TÉCNICOS:
 - 1986 - CE VICTOR FERREIRA DO AMARAL: Administração;
 - 1993 - COLÉGIO ESTADUAL DO PARANÁ: Ator.
 
-MINHAS EXPERIÊNCIAS:
+### MINHAS EXPERIÊNCIAS:
 - Profissões Regulamentadas: Docente (desde 1999); Jornalista (desde 2007); DJ (desde 1997); Ator (desde 1993); Produtor Cultural (desde 1997); Diretor de Teatro (desde 1999); 
 - Webdesigner, Designer Gráfico, Fotógrafo, Câmera-man; Editor de fotos e de Vídeos; Produtor de Eventos.
 
-CONTRATOS EMPRESARIAIS:
+### CONTRATOS EMPRESARIAIS:
 - 2021-Atual: SEED PR: Docente de Ensino Médio nas disciplinas de Língua Portuguesa, Mídias Digitais e Pensamento Computacional;
 - Desde 1998 - Produtor de Eventos (Festas, Casamentos, Aniversários, DJ), Empresariais e Culturais (Teatro);
 - 2019-2020 - Faculdade CAMÕES: Docente de Graduação de Língua Portuguesa, Administração, Metodologias, nos cursos de Administração, Contabilidade, Marketing e Pedagogia;
