@@ -5,7 +5,7 @@ Meu nome é  Renildo Meurer
 
 ### Você pode entrar em contato comigo: renildo.meurer@escola.pr.gov.br e pelas minhas redes sociais: @renildomeurer.
 
-MEUS CURSOS SUPERIORES:
+###MEUS CURSOS SUPERIORES:
 - UFPR - MESTRADO: ESTUDOS LITÉRÁRIOS (2002)
 - PUCPR - ESPECIALIZAÇÃO: LÍNGUA PORTUGUESA E LIT.BRASILEIRA (1999)
 - PUCPR – GRADUAÇÃO: LETRAS (1998)
